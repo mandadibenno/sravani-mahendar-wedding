@@ -1,0 +1,6 @@
+Add two portrait images with these exact names:
+  sravani.jpg
+  mahendar.jpg
+
+Photos will then appear automatically in the couple section (not the first page).
+Use portrait pictures for best results. To use PNG files, change the paths in src/wedding.js.

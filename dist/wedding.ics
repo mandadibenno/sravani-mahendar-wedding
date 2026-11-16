@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ekkaldevi Wedding//Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:sravani-mahendar-wedding-20261125@invitation.local
+DTSTAMP:20261116T000000Z
+DTSTART:20261125T054800Z
+DTEND:20261125T074800Z
+SUMMARY:Sravani & Mahendar Wedding
+LOCATION:R.G.G. CONVENTION\, Kammarpally Road\, Mortad\, Nizamabad\, Telangana
+DESCRIPTION:Sumuhurtham: 11:18 AM IST. Danusu Lagnam. Lunch follows.
+END:VEVENT
+END:VCALENDAR
