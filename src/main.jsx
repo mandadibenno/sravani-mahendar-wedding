@@ -90,7 +90,14 @@ function Hero({startWithMusic}) {
     <div className="hero-side-trim left" aria-hidden="true"/><div className="hero-side-trim right" aria-hidden="true"/>
     <div className="hero-gold-dust" aria-hidden="true"/><Petals/>
     <div className="hero-content">
-      <img className="ganesha-emblem" src="/images/ganesha-emblem.webp" alt="Lord Ganesha blessing this wedding" fetchPriority="high" />
+      
+      <img
+       className="ganesha-emblem"
+       src={`${import.meta.env.BASE_URL}images/ganesha-emblem.webp`}
+       alt="Lord Ganesha blessing this wedding"
+      fetchPriority="high"
+      />
+
       <p className="blessing-top">WITH THE BLESSINGS OF LORD GANESHA</p>
       <div className="hero-decor-line" aria-hidden="true"><span/><i>✦</i><span/></div>
       <p className="wedding-label">Ekkaldevi's Wedding Invitation</p>

@@ -14,15 +14,15 @@ export const wedding = {
   muhurtham: '11:18 AM',
   lagnam: 'Danusu Lagnam',
   grandparents: [
-    'Sent: Ekkaidevi Narsu – Late: Rajagangaram',
-    'Late Ekkahlevi Raja Gangu',
+    'Sent: Ekkaldevi Narsu – Late: Rajagangaram',
+    'Late Ekkaldevi Raja Gangu',
     'Sri: Jangiti Chinna Rajam – Venkata Raja'
   ],
   familyNote: '(Elder D/o. Sri Gaddam Sayanna–Laxmi, R/o Ramanampet.)',
   invitedBy: 'Sri & Smt. Ekkaldevi Rajesh – Sandhya',
   invitedFrom: 'Vill: Metla Chitapur, Md: Metpally',
   specialWishes: 'Chaitanya (Chintu)',
-  bridePhoto: '/photos/sravani.jpg', // Add image at public/photos/sravani.jpg
-  groomPhoto: '/photos/mahendar.jpg', // Add image at public/photos/mahendar.jpg
-  musicFile: '/audio/wedding-melody.mp3', // Replace with your own licensed/original MP3 anytime.
+  bridePhoto: `${base}photos/sravani.jpg`,
+  groomPhoto: `${base}photos/mahendar.jpg`,
+  musicFile: `${base}audio/wedding-melody.mp3`
 };
