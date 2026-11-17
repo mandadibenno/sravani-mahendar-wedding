@@ -18,8 +18,10 @@ export const wedding = {
     'Late Ekkaldevi Raja Gangu',
     'Sri: Jangiti Chinna Rajam – Venkata Raja'
   ],
-  familyNote: '(Elder D/o. Sri Gaddam Sayanna–Laxmi, R/o Ramanampet.)',
-  invitedBy: 'Sri & Smt. Ekkaldevi Rajesh – Sandhya',
+  
+  familyNote: '(Elder S/o. Sri Gaddam Sayanna - Laxmi, R/o Ramanampet.)',
+  invitedBy: 'Sri & Smt. Ekkaldevi Rajesh - Sandhya',
+  
   invitedFrom: 'Vill: Metla Chitapur, Md: Metpally',
   specialWishes: 'Chaitanya (Chintu)',
   bridePhoto: `${base}photos/sravani.jpg`,
